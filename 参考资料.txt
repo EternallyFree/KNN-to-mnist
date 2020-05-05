@@ -1,0 +1,20 @@
+1. https://blog.csdn.net/qq_38953503/article/details/85320187
+机器学习入门——MINST
+
+2. https://blog.csdn.net/whai362/article/details/51813404
+用KNN做手写数字识别(mnist)
+
+3. https://blog.csdn.net/zugexiaodui/article/details/84379028
+使用根据knn原理写的MNIST数字识别
+
+4. https://blog.csdn.net/qq_35456045/article/details/104460766?ops_request_misc=&request_id=&biz_id=102&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-5
+机器学习案例（一）：基于KNN的手写数字识别
+
+5. https://www.cnblogs.com/zhouyang209117/p/6436751.html
+python读取,显示，保存mnist图片
+
+6. https://www.cnblogs.com/ahu-lichang/p/7151007.html
+KNN分类算法
+
+7. https://blog.csdn.net/zugexiaodui/article/details/77130862
+Python代码实现简单的MNIST手写数字识别（适合初学者看）
